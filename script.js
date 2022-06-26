@@ -5,7 +5,7 @@ const Country = 'Nigeria';
 
 const displayName = document.getElementById('displayName');
 const displayHeight = document.getElementById('displayHeight');
-const displayCountry = document.getElementById('displayCountry');('displayName');
+const displayCountry = document.getElementById('displayCountry');
 
 displayName.innerHTML = `<p>Hello, my name is  ${Name}</p>`
 displayHeight.innerHTML = `<p>I am ${Height} tall</p>`
